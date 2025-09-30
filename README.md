@@ -12,7 +12,7 @@ A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and 
 
 ## Preview
 
-<a href="https://ibb.co/C0qF3fJ"><img src="https://i.ibb.co/5cdVgPY/Screenshot-2021-12-16-at-2-11-16-PM.png" alt="Screenshot-2021-12-16-at-2-11-16-PM" border="0"></a>
+<a href="https://ibb.co/C0qF3fJ"><img src="" alt="Screenshot-2021-12-16-at-2-11-16-PM" border="0"></a>
 
 ## Installation
 
@@ -110,4 +110,5 @@ An image encryption node-js cli
 ## Limitations
 
 While encryption and decryption is perfect on the png images. On jpg and jpeg, the operation is not perfect. Jpg and jpeg images are lossy and while encryption and decryption, a few pixels values are changed. The decrypted image is however, very similar to the original image but with a few pixels changed.
+
 
