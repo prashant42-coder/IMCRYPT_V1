@@ -104,12 +104,13 @@ An image encryption node-js cli
 
                         Decrypted Image: decryptedImage.png
 
- Give it a star on github:  https://github.com/theninza/imcrypt
+ Give it a star on github:  https://github.com/prashant42-coder/IMCRYPT_V1
 ```
 
 ## Limitations
 
 While encryption and decryption is perfect on the png images. On jpg and jpeg, the operation is not perfect. Jpg and jpeg images are lossy and while encryption and decryption, a few pixels values are changed. The decrypted image is however, very similar to the original image but with a few pixels changed.
+
 
 
 
